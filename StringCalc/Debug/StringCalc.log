@@ -1,0 +1,6 @@
+﻿  StringCalc.cpp
+C:\Users\kaloy\source\repos\StringCalc\StringCalc.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kaloy\source\repos\StringCalc\StringCalc.cpp(316,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kaloy\source\repos\StringCalc\StringCalc.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kaloy\source\repos\StringCalc\StringCalc.cpp(338,29): warning C4018: '>': signed/unsigned mismatch
+  StringCalc.vcxproj -> C:\Users\kaloy\source\repos\StringCalc\Debug\StringCalc.exe
